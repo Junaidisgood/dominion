@@ -1,16 +1,16 @@
-<section class="vision-mission py-150 rpy-100">
+<section class="vission-mission py-150 rpy-100">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <ul class="vision-tabs">
+                        <ul class="vission-tabs">
                             <li class="wow fadeInUp" data-tab="tab_1" data-wow-duration="1.5s"><h3>Our Mission</h3></li>
                             <li class="active wow fadeInUp" data-tab="tab_2" data-wow-duration="1.5s" data-wow-delay="0.3s"><h3>Our Vision</h3></li>
                             <li class="wow fadeInUp" data-tab="tab_3" data-wow-duration="1.5s" data-wow-delay="0.5s"><h3>Our Values</h3></li>
                         </ul>
                     </div>
                     <div class="col-lg-6">
-                        <div class="vision-content-wrap">
-                            <div id="tab_1" class="vision-tab-content">
+                        <div class="vission-content-wrap">
+                            <div id="tab_1" class="vission-tab-content">
                                 <div class="section-title">
                                     <h2>Mission</h2>
                                 </div>
@@ -26,7 +26,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div id="tab_2" class="vision-tab-content active">
+                            <div id="tab_2" class="vission-tab-content active">
                                 <div class="section-title">
                                     <h2>Vision</h2>
                                 </div>
@@ -42,7 +42,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div id="tab_3" class="vision-tab-content">
+                            <div id="tab_3" class="vission-tab-content">
                                 <div class="section-title">
                                     <h2>Values</h2>
                                 </div>
