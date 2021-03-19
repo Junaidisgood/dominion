@@ -2194,7 +2194,7 @@
     #faq details{
       margin-bottom: 1rem;
       padding: 1rem;
-      background: #fe6600;
+      background: #f97013;
       border-radius: 0.25rem;
     }
     #faq summary{
@@ -2208,7 +2208,7 @@
     }
     #faq summary::after{
       content: "➕";
-      background: #fe6600;
+      background: #f97013;
       border-radius: 0.25rem;
       padding: 0.5rem;
       position: absolute;
@@ -2217,7 +2217,7 @@
       color: white;
     }
     #faq details[open]{
-        background: #fe6600;
+        background: #f97013;
     }
     #faq details[open] summary{
         color: white;

@@ -36,7 +36,7 @@
                                 </div>
                                 <div class="col-md-12 mb-10">        
                                     <div class="form-group">
-                                        <input type="text" name="short-text" class="form-control" value="" placeholder="Message">
+                                        <input type="textbox" name="short-text" class="form-control" value="" placeholder="Message">
                                     </div>
                                 </div>                                               
                             </div>
