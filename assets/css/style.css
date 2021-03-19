@@ -18,7 +18,7 @@
     11. Testimonial Section
     12. Call To Action
     13. About Page
-    14. Vission Mission
+    14. vision Mission
     15. Service Details
     16. Case Details
     17. Contact Page
@@ -1220,13 +1220,13 @@
 
 
     /****************************************************** */
-    /*********** 14. Vission Mission Section  ************* */
+    /*********** 14. vision Mission Section  ************* */
     /****************************************************** */
-    .vission-tabs {
+    .vision-tabs {
         position: relative;
     }
 
-    .vission-tabs:before {
+    .vision-tabs:before {
         content: '';
         position: absolute;
         left: 0;
@@ -1237,7 +1237,7 @@
         background: #F9F9F9;
     }
 
-    .vission-tabs li {
+    .vision-tabs li {
         height: 140px;
         cursor: pointer;
         position: relative;
@@ -1245,17 +1245,17 @@
         align-items: center;
         justify-content: flex-end;
         margin-bottom: 20px;
-        background: url(../images/about/tab-bg.jpg);
+        background: url(../images/vision.png);
         background-size: cover;
         background-position: center;
         transition: 0.5s;
     }
 
-    .vission-tabs li:last-child {
+    .vision-tabs li:last-child {
         margin-bottom: 0;
     }
 
-    .vission-tabs li:before {
+    .vision-tabs li:before {
         content: '';
         position: absolute;
         top: 0;
@@ -1266,11 +1266,11 @@
         transition: 0.5s;
     }
 
-    .vission-tabs li:hover:before, .vission-tabs li.active:before {
+    .vision-tabs li:hover:before, .vision-tabs li.active:before {
         background: rgba(254, 102, 0, .93);    
     }
 
-    .vission-tabs li h3 {
+    .vision-tabs li h3 {
         position: relative;
         color: #ffffff;
         margin-right: 70px;
@@ -1279,11 +1279,11 @@
         transition: 0.7s;
     }
 
-    .vission-tabs li:hover h3, .vission-tabs li.active h3 {
+    .vision-tabs li:hover h3, .vision-tabs li.active h3 {
         padding-right: 70px;
     }
 
-    .vission-tabs li h3:after {
+    .vision-tabs li h3:after {
         content: "\f30b";
         font-weight: 600;
         font-family: "Font Awesome 5 Free";
@@ -1295,18 +1295,18 @@
         transition: 0.5s;
     }
 
-    .vission-tabs li:hover h3:after, .vission-tabs li.active h3:after {
+    .vision-tabs li:hover h3:after, .vision-tabs li.active h3:after {
         opacity: 1;
         visibility: visible;
     }
 
-    .vission-content-wrap {
+    .vision-content-wrap {
         max-width: 500px;
         overflow: hidden;
         margin-left: auto;
     }
 
-    .vission-tab-content {
+    .vision-tab-content {
         display: none;
         -webkit-animation-duration: 1s;
         animation-duration: 1s;
@@ -1314,22 +1314,22 @@
         animation-fill-mode: both;
     }
 
-    .vission-tab-content.active {
+    .vision-tab-content.active {
         display: block;
         -webkit-animation-name: fadeInLeft;
         animation-name: fadeInLeft;
     }
 
-    .vission-tab-content .section-title h2 {
+    .vision-tab-content .section-title h2 {
         color: #222222;
         margin-bottom: 10px;
     }
 
-    .vission-tab-content p {
+    .vision-tab-content p {
         margin-bottom: 30px;
     }
 
-    .vission-tab-content .success-item {
+    .vision-tab-content .success-item {
         max-width: 340px;
         align-items: center;
         border-right: 0;
@@ -1338,21 +1338,21 @@
         border-left: 6px solid var(--primary-color, #fe6600);
     }
 
-    .vission-tab-content .success-item .icon-image {
+    .vision-tab-content .success-item .icon-image {
         margin-right: 35px;
     }
 
-    .vission-tab-content .success-content {
+    .vision-tab-content .success-content {
         padding-top: 0;
     }
 
-    .vission-tab-content .success-content .count-text {
+    .vision-tab-content .success-content .count-text {
         font-size: 40px;
         color: #292929;
         position: relative;
     }
 
-    .vission-tab-content .success-content .count-text:after {
+    .vision-tab-content .success-content .count-text:after {
         font-size: 13px;
         position: absolute;
         top: 0;
@@ -1360,7 +1360,7 @@
         color: var(--primary-color, #fe6600);
     }
 
-    .vission-tab-content .success-content h5 {
+    .vision-tab-content .success-content h5 {
         color: #292929;
         margin-bottom: 0;
         margin-top: 6px;
