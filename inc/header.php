@@ -153,7 +153,7 @@
                                                 </ul>
                                             </div>
                                         <?php break;?>
-                                        <?php case '404.php':?>
+                                        <?php case 'aum.php':?>
                                             <div class="navbar-collapse collapse clearfix">
                                                 <ul class="navigation clearfix">
                                                     <li><a href="index.php">Home</a></li>
@@ -176,13 +176,15 @@
                                                     <li><a href="index.php">Home</a></li>
                                                     <li><a href="about.php">About</a></li>
                                                     <li><a href="service-details.php">Services</a></li>
-                                                    <li class="dropdown"><a href="#">Pages</a>
+                                                    <!-- <li class="dropdown"><a href="#">Pages</a>
                                                         <ul>
                                                             <li><a href="case-details.php">Case Details</a></li>
                                                             <li><a href="404.php">404</a></li>
                                                         </ul>
                                                     </li>
+ -->                                                    
                                                     <li><a href="contact.php">Contact Us</a></li>
+                                                    <li><a href="404.php">AUM</a></li>
                                                 </ul>
                                             </div>
                                             <?php }?>
