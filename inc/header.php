@@ -26,7 +26,7 @@
         <!-- fonts -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap">
         <!-- bootstrap 4 -->
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
     </head>
 
@@ -44,9 +44,9 @@
                 <div class="header-top bg-orange">
                     <div class="container">
                         <div class="top-inner">
-                            <ul class="top-left">
-                                <li><i class="fas fa-envelope"></i> <a href="mailto:support@dominionfinance.com">support@dominionfinance.com</a></li>
-                                <li><i class="fas fa-map-marker-alt"></i> Berlin, Germany.</li>
+                            <ul class="top-left" style="margin-top: 5px;">
+                                <li><i class="fas fa-envelope"></i> <a href="mailto:support@dominionfinance.com" target="_blank">support@dominionfinance.com</a></li>
+                                <li><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/w44VJoWjCAeREjYw9" target="_blank">Berlin, Germany.</a></li>
                             </ul>
 
                             <div class="top-right ml-auto">
@@ -91,13 +91,14 @@
                                                     <li class="current-menu-item"><a href="index.php">Home</a></li>
                                                     <li><a href="about.php">About</a></li>
                                                     <li><a href="service-details.php">Services</a></li>
-                                                    <li class="dropdown"><a href="#">Pages</a>
+                                                    <!-- <li class="dropdown"><a href="#">Pages</a>
                                                         <ul>
                                                             <li><a href="case-details.php">Case Details</a></li>
                                                             <li><a href="404.php">404</a></li>
                                                         </ul>
-                                                    </li>
+                                                    </li> -->
                                                     <li><a href="contact.php">Contact</a></li>
+                                                    <li><a href="aum.php">AUM</a></li>
                                                 </ul>
                                             </div>
                                         <?php break;?>
@@ -107,13 +108,14 @@
                                                     <li><a href="index.php">Home</a></li>
                                                     <li class="current-menu-item"><a href="about.php">About</a></li>
                                                     <li><a href="service-details.php">Services</a></li>
-                                                    <li class="dropdown"><a href="#">Pages</a>
+                                                    <!-- <li class="dropdown"><a href="#">Pages</a>
                                                         <ul>
                                                             <li><a href="case-details.php">Case Details</a></li>
                                                             <li><a href="404.php">404</a></li>
                                                         </ul>
-                                                    </li>
+                                                    </li> -->
                                                     <li><a href="contact.php">Contact</a></li>
+                                                    <li><a href="aum.php">AUM</a></li>
                                                 </ul>
                                             </div>
                                         <?php break;?>
@@ -123,13 +125,14 @@
                                                     <li><a href="index.php">Home</a></li>
                                                     <li><a href="about.php">About</a></li>
                                                     <li class="current-menu-item"><a href="service-details.php">Services</a></li>
-                                                    <li class="dropdown"><a href="#">Pages</a>
+                                                    <!-- <li class="dropdown"><a href="#">Pages</a>
                                                         <ul>
                                                             <li><a href="case-details.php">Case Details</a></li>
                                                             <li><a href="404.php">404</a></li>
                                                         </ul>
-                                                    </li>
+                                                    </li> -->
                                                     <li><a href="contact.php">Contact</a></li>
+                                                    <li><a href="aum.php">AUM</a></li>
                                                 </ul>
                                             </div>
                                         <?php break;?>
@@ -139,13 +142,31 @@
                                                     <li><a href="index.php">Home</a></li>
                                                     <li><a href="about.php">About</a></li>
                                                     <li><a href="service-details.php">Services</a></li>
-                                                    <li class="dropdown"><a href="#">Pages</a>
+                                                    <!-- <li class="dropdown"><a href="#">Pages</a>
                                                         <ul>
                                                             <li><a href="case-details.php">Case Details</a></li>
                                                             <li><a href="404.php">404</a></li>
                                                         </ul>
-                                                    </li>
+                                                    </li> -->
                                                     <li class="current-menu-item"><a href="contact.php">Contact</a></li>
+                                                    <li><a href="aum.php">AUM</a></li>
+                                                </ul>
+                                            </div>
+                                        <?php break;?>
+                                        <?php case 'aum.php':?>
+                                            <div class="navbar-collapse collapse clearfix">
+                                                <ul class="navigation clearfix">
+                                                    <li><a href="index.php">Home</a></li>
+                                                    <li><a href="about.php">About</a></li>
+                                                    <li><a href="service-details.php">Services</a></li>
+                                                    <!-- <li class="dropdown"><a href="#">Pages</a>
+                                                        <ul>
+                                                            <li><a href="case-details.php">Case Details</a></li>
+                                                            <li><a href="404.php">404</a></li>
+                                                        </ul>
+                                                    </li> -->
+                                                    <li><a href="contact.php">Contact</a></li>
+                                                    <li class="current-menu-item"><a href="aum.php">AUM</a></li>
                                                 </ul>
                                             </div>
                                         <?php break;
@@ -171,7 +192,7 @@
                         </div>
 
                         <div class="menu-number">
-                            <i class="fas fa-phone-alt"></i> <a href="callto:+66888666">+66 888 666</a>
+                            <i class="fas fa-phone-alt"></i> <a href="callto:+66888666" style="text-decoration: none;color: #fe6600">+66 888 666</a>
                         </div>
                     </div>
 

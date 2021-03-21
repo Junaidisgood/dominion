@@ -9,7 +9,7 @@
                     <h2 class="wow fadeInUp" data-wow-duration="1.5s">Contact Us.</h2>
                     <nav aria-label="breadcrumb" class="wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.3s">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                             <li class="breadcrumb-item active" aria-current="page">Contact</li>
                         </ol>
                     </nav>
@@ -30,7 +30,7 @@
                     <div class="col-lg-4">
                         <div class="contact-sidebar">
                             <div class="sidebar-widget bg-snow">
-                                <h3>Location: 01</h3>
+                                <h3>Location:</h3>
                                 <ul>
                                     <li>
                                         <div class="left-icon">

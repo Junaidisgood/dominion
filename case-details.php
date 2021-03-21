@@ -9,7 +9,7 @@
                     <h2 class="wow fadeInUp" data-wow-duration="1.5s">Case Details</h2>
                     <nav aria-label="breadcrumb" class="wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.3s">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                             <li class="breadcrumb-item active" aria-current="page">Case</li>
                         </ol>
                     </nav>
@@ -43,7 +43,7 @@
                             <div class="sidebar-widget contact-widget text-center bg-black">
                                 <p>WE ARE READY.</p>
                                 <h3>How Can We Help You?</h3>
-                                <a href="contact.html" class="theme-btn">Contact Now <i class="fas fa-arrow-right"></i></a>
+                                <a href="contact.php" class="theme-btn">Contact Now <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -131,10 +131,10 @@
                             <div class="prev-next-area">
                                 <div class="row">
                                     <div class="col-sm-6">
-                                        <a class="prev-next-btn prev-btn wow fadeInUp" data-wow-duration="2s" href="case-details.html"><span>Previous.</span></a>
+                                        <a class="prev-next-btn prev-btn wow fadeInUp" data-wow-duration="2s" href="case-details.php"><span>Previous.</span></a>
                                     </div>
                                     <div class="col-sm-6">
-                                        <a class="prev-next-btn next-btn wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.3s" href="case-details.html"><span>Next.</span></a>
+                                        <a class="prev-next-btn next-btn wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.3s" href="case-details.php"><span>Next.</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -166,11 +166,11 @@
                         <div class="case-item wow fadeInUp" data-wow-duration="2s">
                             <div class="case-image">
                                 <img src="assets/images/cases/case1.jpg" alt="Case Image">
-                                <a href="case-details.html"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="case-details.php"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="case-content">
                                 <span>HOME / LAND</span>
-                                <h4><a href="case-details.html">Mortgage Advisor</a></h4>
+                                <h4><a href="case-details.php">Mortgage Advisor</a></h4>
                             </div>
                         </div>
                     </div>
@@ -178,11 +178,11 @@
                         <div class="case-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.3s">
                             <div class="case-image">
                                 <img src="assets/images/cases/case2.jpg" alt="Case Image">
-                                <a href="case-details.html"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="case-details.php"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="case-content">
                                 <span>BUSINESS SOLUTION</span>
-                                <h4><a href="case-details.html">Online Consulting</a></h4>
+                                <h4><a href="case-details.php">Online Consulting</a></h4>
                             </div>
                         </div>
                     </div>
@@ -190,11 +190,11 @@
                         <div class="case-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s">
                             <div class="case-image">
                                 <img src="assets/images/cases/case3.jpg" alt="Case Image">
-                                <a href="case-details.html"><i class="fas fa-angle-double-right"></i></a>
+                                <a href="case-details.php"><i class="fas fa-angle-double-right"></i></a>
                             </div>
                             <div class="case-content">
                                 <span>CORPORATE SERVICES</span>
-                                <h4><a href="case-details.html">Planning & Management</a></h4>
+                                <h4><a href="case-details.php">Planning & Management</a></h4>
                             </div>
                         </div>
                     </div>

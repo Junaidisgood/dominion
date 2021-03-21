@@ -135,6 +135,7 @@
 .main-menu .navigation li:hover > a,
 .main-menu .navigation li.current-menu-item > a {
     color: var(--primary-color, #fe6600);
+    text-decoration: none;
 }
 
 .main-menu .navigation > li:before {
