@@ -25,9 +25,9 @@
                         <div class="widget menu-widget">
                             <h3 class="widget-title">Our Services</h3>
                             <ul>
-                                <li><a href="service-details.php">Business Consulting</a></li>
-                                <li><a href="service-details.php">Investment Advisor</a></li>
-                                <li><a href="service-details.php">Lawyer Consulting</a></li>
+                                <li><a href="service-details.php">Global Wealth Management</a></li>
+                                <li><a href="service-details.php">Investment Banking</a></li>
+                                <li><a href="service-details.php">Offshore Banking</a></li>
                                 <li><a href="service-details.php">Mortgage Advisor</a></li>
                                 <li><a href="service-details.php">Financial Consulting</a></li>
                             </ul>

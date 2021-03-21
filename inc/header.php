@@ -97,8 +97,8 @@
                                                             <li><a href="404.php">404</a></li>
                                                         </ul>
                                                     </li> -->
-                                                    <li><a href="contact.php">Contact</a></li>
-                                                    <li><a href="aum.php">AUM</a></li>
+                                                    <li><a href="contact.php">Contact Us</a></li>
+                                                    <li><a href="404.php">AUM</a></li>
                                                 </ul>
                                             </div>
                                         <?php break;?>
@@ -114,8 +114,8 @@
                                                             <li><a href="404.php">404</a></li>
                                                         </ul>
                                                     </li> -->
-                                                    <li><a href="contact.php">Contact</a></li>
-                                                    <li><a href="aum.php">AUM</a></li>
+                                                    <li><a href="contact.php">Contact Us</a></li>
+                                                    <li><a href="404.php">AUM</a></li>
                                                 </ul>
                                             </div>
                                         <?php break;?>
@@ -131,8 +131,8 @@
                                                             <li><a href="404.php">404</a></li>
                                                         </ul>
                                                     </li> -->
-                                                    <li><a href="contact.php">Contact</a></li>
-                                                    <li><a href="aum.php">AUM</a></li>
+                                                    <li><a href="contact.php">Contact Us</a></li>
+                                                    <li><a href="404.php">AUM</a></li>
                                                 </ul>
                                             </div>
                                         <?php break;?>
@@ -148,12 +148,12 @@
                                                             <li><a href="404.php">404</a></li>
                                                         </ul>
                                                     </li> -->
-                                                    <li class="current-menu-item"><a href="contact.php">Contact</a></li>
-                                                    <li><a href="aum.php">AUM</a></li>
+                                                    <li class="current-menu-item"><a href="contact.php">Contact Us</a></li>
+                                                    <li><a href="404.php">AUM</a></li>
                                                 </ul>
                                             </div>
                                         <?php break;?>
-                                        <?php case 'aum.php':?>
+                                        <?php case '404.php':?>
                                             <div class="navbar-collapse collapse clearfix">
                                                 <ul class="navigation clearfix">
                                                     <li><a href="index.php">Home</a></li>
@@ -165,8 +165,8 @@
                                                             <li><a href="404.php">404</a></li>
                                                         </ul>
                                                     </li> -->
-                                                    <li><a href="contact.php">Contact</a></li>
-                                                    <li class="current-menu-item"><a href="aum.php">AUM</a></li>
+                                                    <li><a href="contact.php">Contact Us</a></li>
+                                                    <li class="current-menu-item"><a href="404.php">AUM</a></li>
                                                 </ul>
                                             </div>
                                         <?php break;
@@ -182,7 +182,7 @@
                                                             <li><a href="404.php">404</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="contact.php">Contact</a></li>
+                                                    <li><a href="contact.php">Contact Us</a></li>
                                                 </ul>
                                             </div>
                                             <?php }?>
