@@ -2168,14 +2168,14 @@
     /********************************************/
     /******************CUSTOM********************/
     /********************************************/
-    .our-success..container{
+    .our-success .container{
         color: white;
     }
 
     /****************************************************** */
     /*******************     20. FAQ      ***************** */
     /****************************************************** */
-    body {
+    #faq body {
         max-width: 800px;
         margin: 0 auto;
     }
@@ -2190,7 +2190,7 @@
     .faq-singular:hover,
     .faq-singular.active{
         background: #f2f2f2;
-        background-image: linear-gradient(90deg, #335548 0%, #335548 8px, transparent 8px, transparent 100%);
+        background-image: linear-gradient(90deg, #fe6600 0%, #fe6600 8px, transparent 8px, transparent 100%);
     }
     .faq-singular .faq-question {
         position: relative;
@@ -2217,4 +2217,11 @@
     .faq-answer {
         display: none;
         padding-bottom: 20px;
+    }
+    #faq span{
+        margin-top: 10px;
+
+    }
+    span .faq-sections{
+        
     }

@@ -11,7 +11,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="cta-btn wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.3s">
-                            <a href="contact.php" class="theme-btn">Contact Now <i class="fas fa-arrow-right"></i></a>
+                            <a href="contact.php" class="theme-btn" style="color: white; text-decoration: none;">Contact Now <i class="fas fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
