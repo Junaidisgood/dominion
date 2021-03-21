@@ -28,8 +28,10 @@
                                 <li><a href="service-details.php">Global Wealth Management</a></li>
                                 <li><a href="service-details.php">Investment Banking</a></li>
                                 <li><a href="service-details.php">Offshore Banking</a></li>
-                                <li><a href="service-details.php">Mortgage Advisor</a></li>
-                                <li><a href="service-details.php">Financial Consulting</a></li>
+                                <li><a href="service-details.php">Consultancy & Advisory</a></li>
+                                <li><a href="service-details.php">Bond Issue</a></li>
+                                <li><a href="service-details.php">Monetization</a></li>
+
                             </ul>
                         </div>
                     </div>
