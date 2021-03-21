@@ -2175,62 +2175,46 @@
     /****************************************************** */
     /*******************     20. FAQ      ***************** */
     /****************************************************** */
-    #faq *{
-        box-sizing: border-box;
-        transition: 0.25s;
+    #faqbody {
+        max-width: 800px;
+        margin: 0 auto;
     }
-    #faq body{
-      font-family: system-ui, sans-serif;
-      padding: 0 2rem;
+    #faq.faqs-container{
+        overflow: hidden;
     }
-    #faq h1{
-      text-align: center;
-      font-size: 3rem;
-      padding-bottom: 0.25em;
-      border-bottom: 1px solid silver;
-      border-image: linear-gradient(to right, transparent 20%, darkslategrey, transparent 80%)30;
+    #faq.faq-singular {
+        position: relative;
+        border-bottom: 1px solid #ccc;
+        padding: 0 30px 0 20px;
     }
-    /*** Specific styles ***/
-    #faq details{
-      margin-bottom: 1rem;
-      padding: 1rem;
-      background: #f97013;
-      border-radius: 0.25rem;
+    #faq.faq-singular:hover,
+    #faq.faq-singular.active{
+        background: #f2f2f2;
+        background-image: linear-gradient(90deg, #335548 0%, #335548 8px, transparent 8px, transparent 100%);
     }
-    #faq summary{
-      list-style-type:'❔ ';
-      font-size: 1.25rem;
-      font-weight: bold;
-      color: white;
-      cursor: pointer; 
-      position: relative;
-      outline: none;
+    #faq.faq-singular .faq-question {
+        position: relative;
+        cursor: pointer;
+        margin: 0;
+        padding: 25px 25px 25px 0px;
+        font-weight: 700;
+        font-size: 24px;
     }
-    #faq summary::after{
-      content: "➕";
-      background: #f97013;
-      border-radius: 0.25rem;
-      padding: 0.5rem;
-      position: absolute;
-      right: 0.25rem;
-      top: -0.5rem;
-      color: white;
+    #faq.faq-singular .faq-question:before {
+        position: absolute;
+        content: "+";
+        color: #808080;
+        right: -20px;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 28px;
+        font-weight: 700;
+        transition: all .5s;
     }
-    #faq details[open]{
-        background: #f97013;
+    #faq.faq-singular.active .faq-question:before {
+        transform: translateY(-50%) rotate(45deg) scale(1.3);
     }
-    #faq details[open] summary{
-        color: white;
+    #faq.faq-answer {
+        display: none;
+        padding-bottom: 20px;
     }
-    #faq details[open] summary::after{
-        content: "➖";
-    }
-    /*** End specific styles ***/
-    #faq p{
-        color: whitesmoke;
-        font-weight: bold;
-        letter-spacing: 1.5;
-    }
-
-    sudo /usr/sbin/asr imagescan --source ~/Downloads/Mac_OS_X.dmg      
-    sudo /usr/sbin/asr restore --source ~/Downloads/Mac_OS_X.dmg  --target /Volumes/MacX --erase
