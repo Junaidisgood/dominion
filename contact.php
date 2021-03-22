@@ -50,7 +50,6 @@
                                                 <i class="fas fa-phone-alt"></i>
                                             </div>
                                             <div class="right-content">
-                                                <a href="tel:+492115861076">+492115861076</a><br>
                                                 <a href="tel:+492115861942">+492115861942</a>
                                             </div>
                                         </li>
