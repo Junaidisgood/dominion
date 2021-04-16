@@ -21,8 +21,8 @@
                         </div>
                     </div>
                     <div class="team-desc">
-                        <h3>Sandra Respal</h3>
-                        <p>Senior Consultant</p>
+                        <h3>Dr Ouafia Fanni</h3>
+                        <p>Senior Managing Director</p>
                     </div>
                 </div>
                 <div class="team-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.3s">
@@ -36,8 +36,8 @@
                         </div>
                     </div>
                     <div class="team-desc">
-                        <h3>Roberto Perelta</h3>
-                        <p>Mortgage Advisor</p>
+                        <h3>Sandra Respal</h3>
+                        <p>Asian Representative</p>
                     </div>
                 </div>
                 <div class="team-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s">
@@ -51,8 +51,8 @@
                         </div>
                     </div>
                     <div class="team-desc">
-                        <h3>Christian Udo</h3>
-                        <p>CFO, member of Global Executive Committe</p>
+                        <h3>Roberto Perelta</h3>
+                        <p>South & North American representative</p>
                     </div>
                 </div>
                 <div class="team-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.7s">
@@ -66,8 +66,8 @@
                         </div>
                     </div>
                     <div class="team-desc">
-                        <h3>Kayleen Colbert</h3>
-                        <p>Investment Advisor</p>
+                        <h3>Christian Udo</h3>
+                        <p>CFO, member of Global Executive Committee</p>
                     </div>
                 </div>
             </div>
