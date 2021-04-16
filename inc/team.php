@@ -12,13 +12,13 @@
             <div class="team-wrap">
                 <div class="team-item wow fadeInUp" data-wow-duration="2s">
                     <div class="item-image">
-                        <img src="assets/images/team/1.jpeg" alt="Team Image">
-                        <div class="social-style-two">
+                        <img src="assets/images/team/1.jpeg" alt="Dr Ouafia Fanni">
+                        <!-- <div class="social-style-two">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-skype"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
                             <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="team-desc">
                         <h3>Dr Ouafia Fanni</h3>
@@ -27,13 +27,13 @@
                 </div>
                 <div class="team-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.3s">
                     <div class="item-image">
-                        <img src="assets/images/team/2.jpeg" alt="Team Image">
-                        <div class="social-style-two">
+                        <img src="assets/images/team/2.jpeg" alt="Sandra Respal">
+                        <!-- <div class="social-style-two">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-skype"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
                             <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="team-desc">
                         <h3>Sandra Respal</h3>
@@ -42,13 +42,13 @@
                 </div>
                 <div class="team-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s">
                     <div class="item-image">
-                        <img src="assets/images/team/3.jpeg" alt="Team Image">
-                        <div class="social-style-two">
+                        <img src="assets/images/team/3.jpeg" alt="Roberto Perelta">
+                        <!-- <div class="social-style-two">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-skype"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
                             <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="team-desc">
                         <h3>Roberto Perelta</h3>
@@ -57,13 +57,13 @@
                 </div>
                 <div class="team-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.7s">
                     <div class="item-image">
-                        <img src="assets/images/team/4.jpeg" alt="Team Image">
-                        <div class="social-style-two">
+                        <img src="assets/images/team/4.jpeg" alt="Christian Udo">
+                        <!-- <div class="social-style-two">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-skype"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
                             <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="team-desc">
                         <h3>Christian Udo</h3>
