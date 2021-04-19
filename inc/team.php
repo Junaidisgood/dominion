@@ -27,7 +27,7 @@
                 </div>
                 <div class="team-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.3s">
                     <div class="item-image">
-                        <img src="assets/images/team/2.jpeg" alt="Sandra Respal">
+                        <img src="assets/images/team/2-1.jpg" alt="Sandra Respal">
                         <!-- <div class="social-style-two">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-skype"></i></a>
