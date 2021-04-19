@@ -7,9 +7,9 @@
         <div class="hero-inner">
             <span class="sub-title wow fadeInUp" data-wow-duration="1s">SINCE 2013.</span>
             <h1>
-                <span class="wow fadeInUp display-2" data-wow-duration="1s" data-wow-delay="0.3s">Perfect</span><br>
-                <span class="wow fadeInUp display-2" data-wow-duration="1s" data-wow-delay="0.5s">Consulting</span><br>
-                <span class="wow fadeInUp display-2" data-wow-duration="1s" data-wow-delay="0.8s">Solutions</span>
+                <span class="wow fadeInUp display-3" data-wow-duration="1s" data-wow-delay="0.3s">Perfect</span><br>
+                <span class="wow fadeInUp display-3" data-wow-duration="1s" data-wow-delay="0.5s">Consulting</span><br>
+                <span class="wow fadeInUp display-3" data-wow-duration="1s" data-wow-delay="0.8s">Solutions</span>
             </h1>
             <a href="contact.php" class="theme-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">Book Appoinment <i class="fas fa-arrow-right"></i></a>
         </div>
