@@ -72,7 +72,7 @@
                     <div class="header-inner d-lg-flex align-items-center">
 
                         <div class="logo-outer d-flex align-items-center">
-                            <div class="logo"><a href="index.php"><img src="assets/images/dominion-1.png" alt="Logo" title="Dominion Finance" height="100" width="250"></a></div>
+                            <div class="logo"><a href="index.php"><img src="assets/images/dominion-1.png" alt="Logo" title="Dominion Finance" height="70" width="175"></a></div>
                         </div>
 
                         <div class="nav-outer clearfix ml-lg-auto mr-lg-auto">
@@ -87,8 +87,8 @@
                                     </button>
                                 </div>
                                 <?php
-                                $page = basename($_SERVER['PHP_SELF']);
-                                switch ($page) {
+                                    $page = basename($_SERVER['PHP_SELF']);
+                                    switch ($page) {
                                     case 'index.php': ?>
                                         <div class="navbar-collapse collapse clearfix">
                                             <ul class="navigation clearfix">
@@ -102,7 +102,6 @@
                                                     </ul>
                                                 </li> -->
                                                 <li><a href="contact.php">Contact Us</a></li>
-                                                <li><a href="404.php">AUM</a></li>
                                             </ul>
                                         </div>
                                         <?php break; ?>
