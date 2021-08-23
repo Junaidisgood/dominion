@@ -50,7 +50,7 @@
                     <div class="top-inner">
                         <ul class="top-left" style="margin-top: 5px;">
                             <li><i class="fas fa-envelope"></i> <a href="mailto:support@dominionfinance.com" target="_blank">support@dominionfinance.com</a></li>
-                            <li><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/w44VJoWjCAeREjYw9" target="_blank">Berlin, Germany.</a></li>
+                            <li><i class="fas fa-map-marker-alt"></i> <a href="https://goo.gl/maps/w44VJoWjCAeREjYw9" target="_blank">Düsseldorf, Germany.</a></li>
                         </ul>
 
                         <div class="top-right ml-auto">
