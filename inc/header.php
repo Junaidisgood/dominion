@@ -56,7 +56,7 @@
                         <div class="top-right ml-auto">
                             <div class="social-style-one">
                                 <a href="#"><i class="fab fa-facebook"></i></a>
-                                <a href="#"><i class="fab fa-skype"></i></a>
+                                <a href="skype:TREUECONSULTING?userinfo"><i class="fab fa-skype"></i></a>
                                 <a href="#"><i class="fab fa-twitter"></i></a>
                                 <a href="#"><i class="fab fa-pinterest-p"></i></a>
                             </div>
@@ -87,8 +87,8 @@
                                     </button>
                                 </div>
                                 <?php
-                                    $page = basename($_SERVER['PHP_SELF']);
-                                    switch ($page) {
+                                $page = basename($_SERVER['PHP_SELF']);
+                                switch ($page) {
                                     case 'index.php': ?>
                                         <div class="navbar-collapse collapse clearfix">
                                             <ul class="navigation clearfix">

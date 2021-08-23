@@ -114,5 +114,19 @@
                 <h3>Chief Okoye</h3>
             </div>
         </div>
+        <div class="team-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.7s">
+            <div class="item-image">
+                <img src="assets/images/team/cheif_okoye.jpeg" alt="Ms Innocent">
+                <!-- <div class="social-style-two">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-skype"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                        </div> -->
+            </div>
+            <div class="team-desc">
+                <h3>Ms Innocent</h3>
+            </div>
+        </div>
     </div>
 </section>
