@@ -102,6 +102,7 @@
                                                     </ul>
                                                 </li> -->
                                                 <li><a href="contact.php">Contact Us</a></li>
+                                                <li><a href="africa-fund.php">Africa Fund</a></li>
                                             </ul>
                                         </div>
                                         <?php break; ?>
@@ -119,6 +120,7 @@
                                                     </ul>
                                                 </li> -->
                                                 <li><a href="contact.php">Contact Us</a></li>
+                                                <li><a href="africa-fund.php">Africa Fund</a></li>
                                             </ul>
                                         </div>
                                         <?php break; ?>
@@ -136,6 +138,7 @@
                                                     </ul>
                                                 </li> -->
                                                 <li><a href="contact.php">Contact Us</a></li>
+                                                <li><a href="africa-fund.php">Africa Fund</a></li>
                                             </ul>
                                         </div>
                                         <?php break; ?>
@@ -153,11 +156,12 @@
                                                     </ul>
                                                 </li> -->
                                                 <li class="current-menu-item"><a href="contact.php">Contact Us</a></li>
+                                                <li><a href="africa-fund.php">Africa Fund</a></li>
                                             </ul>
                                         </div>
                                         <?php break; ?>
                                     <?php
-                                    case 'aum.php': ?>
+                                    case 'Africa Fund.php': ?>
                                         <div class="navbar-collapse collapse clearfix">
                                             <ul class="navigation clearfix">
                                                 <li><a href="index.php">Home</a></li>
@@ -170,6 +174,7 @@
                                                     </ul>
                                                 </li> -->
                                                 <li><a href="contact.php">Contact Us</a></li>
+                                                <li class="current-menu-item"><a href="africa-fund.php">Africa Fund</a></li>
                                             </ul>
                                         </div>
                                     <?php break;
@@ -187,6 +192,7 @@
                                                 </li>
                                             -->
                                                 <li><a href="contact.php">Contact Us</a></li>
+                                                <li><a href="africa-fund.php">Africa Fund</a></li>
                                             </ul>
                                         </div>
                                 <?php } ?>
