@@ -119,7 +119,6 @@
                                                     </ul>
                                                 </li> -->
                                                 <li><a href="contact.php">Contact Us</a></li>
-                                                <li><a href="404.php">AUM</a></li>
                                             </ul>
                                         </div>
                                         <?php break; ?>
@@ -137,7 +136,6 @@
                                                     </ul>
                                                 </li> -->
                                                 <li><a href="contact.php">Contact Us</a></li>
-                                                <li><a href="404.php">AUM</a></li>
                                             </ul>
                                         </div>
                                         <?php break; ?>
@@ -155,7 +153,6 @@
                                                     </ul>
                                                 </li> -->
                                                 <li class="current-menu-item"><a href="contact.php">Contact Us</a></li>
-                                                <li><a href="404.php">AUM</a></li>
                                             </ul>
                                         </div>
                                         <?php break; ?>
@@ -173,7 +170,6 @@
                                                     </ul>
                                                 </li> -->
                                                 <li><a href="contact.php">Contact Us</a></li>
-                                                <li class="current-menu-item"><a href="404.php">AUM</a></li>
                                             </ul>
                                         </div>
                                     <?php break;
@@ -191,7 +187,6 @@
                                                 </li>
                                             -->
                                                 <li><a href="contact.php">Contact Us</a></li>
-                                                <li><a href="404.php">AUM</a></li>
                                             </ul>
                                         </div>
                                 <?php } ?>
