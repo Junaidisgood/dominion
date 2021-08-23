@@ -72,7 +72,7 @@
                     <div class="header-inner d-lg-flex align-items-center">
 
                         <div class="logo-outer d-flex align-items-center">
-                            <div class="logo"><a href="index.php"><img src="assets/images/dominion-1.png" alt="Logo" title="Dominion Finance" height="70" width="175"></a></div>
+                            <div class="logo"><a href="index.php"><img src="assets/images/Dominion-1.png" alt="Logo" title="Dominion Finance" height="70" width="175"></a></div>
                         </div>
 
                         <div class="nav-outer clearfix ml-lg-auto mr-lg-auto">
