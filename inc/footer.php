@@ -22,14 +22,12 @@
             </div>
             <div class="col-lg-4 col-6">
                 <div class="widget menu-widget">
-                    <h3 class="widget-title">Our Services</h3>
+                    <h3 class="widget-title">Useful Links</h3>
                     <ul>
-                        <li><a href="service-details.php#global-wealth">Global Wealth Management</a></li>
-                        <li><a href="service-details.php#infrastructure">Infrastructure</a></li>
-                        <li><a href="service-details.php#structured-finance">Structured Finance</a></li>
-                        <li><a href="service-details.php#private-equity">Private Equity </a></li>
-                        <li><a href="service-details.php#real-estate">Real Estate</a></li>
-                        <li><a href="service-details.php#bank-instrument">Bank Instrument & Securities</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="service-details.php">Services</a></li>
+                        <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                        <li><a href="terms-use.php">Terms of Use</a></li>
 
                     </ul>
                 </div>
