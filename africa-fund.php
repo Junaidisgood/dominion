@@ -37,11 +37,11 @@
                 </div>
             </div>
             <div class="col-lg-8">
-                <div class="case-details-content">
+                <!-- <div class="case-details-content">
                     <figure>
                         <img src="assets/images/africa-fund.jpg" alt="Case Details Image">
                     </figure>
-                </div>
+                </div> -->
                 <div class="section-title">
                     <h2>Africa <span>Fund</span></h2>
                 </div>
