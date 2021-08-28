@@ -217,7 +217,7 @@
             <div class="modal-dialog modal-lg">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="name">Sandra Respal</h5>
+                        <h5 class="modal-title" id="name">Lorenc Gegë Palushaj</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
@@ -339,7 +339,7 @@
 
         <div class="team-item wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.7s">
             <div class="item-image" data-toggle="modal" data-target="#innocent">
-                <img src="assets/images/team/innocent.jpeg" alt="Ms Innocent">
+                <img src="assets/images/team/team-user.png" alt=" Ms Innocent">
                 <!-- <div class="social-style-two">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-skype"></i></a>
@@ -365,11 +365,55 @@
                         <div class="container-fluid m-2">
                             <div class="row">
                                 <div class="col-4">
-                                    <img src="assets/images/team/dr_ouafia.jpeg" alt="Ms Innocent">
+                                    <img src="assets/images/team/team-user.png" alt="Ms Innocent">
                                 </div>
                                 <div class="col-8">
                                     <p>
-                                        ------------------------------------
+                                        DFC's Compliance Testing business provides a testing and monitoring capability to clients delivering across a range of business functions and compliance areas. Berns has specialised in providing regulatory compliance and controls testing services for over 25 years. She is passionate Chartered Accountant who sits on the DFC Senior Leadership team and help clients transform and deliver complex operational programmes.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="team-wrap">
+        <div class="team-item wow fadeInUp" data-wow-duration="2s">
+            <div class="item-image" data-toggle="modal" data-target="#lisa">
+                <img src="assets/images/team/team-user.png" alt="Dr Lisa M. Kennedy">
+                <!-- <div class="social-style-two">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-skype"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                        </div> -->
+            </div>
+            <div class="team-desc">
+                <h3>Dr Lisa M. Kennedy</h3>
+            </div>
+        </div>
+        <!-- Modal -->
+        <div class="modal fade" id="lisa" tabindex="-1" aria-labelledby="lisa" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="name">Dr Lisa M. Kennedy</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container-fluid m-2">
+                            <div class="row">
+                                <div class="col-4">
+                                    <img src="assets/images/team/team-user.png" alt="Dr Lisa M. Kennedy">
+                                </div>
+                                <div class="col-8">
+                                    <p>
+                                        ---------------------
                                     </p>
                                 </div>
                             </div>
